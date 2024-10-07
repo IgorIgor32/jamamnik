@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://media.tenor.com/QmlJ0Hx5lvMAAAAM/dachshund.gif');
+    background-size: cover;
+    color: red;
+}
+
+
+
+
+
+
+
+
+table {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 20px;
+    border: solid white 1px;
+    height: 100px; width: 400px;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+
+img
+{
+    position: absolute;
+    right: 600px;
+    top: 200px;
+}
